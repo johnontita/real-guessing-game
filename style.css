@@ -11,7 +11,7 @@ body{
    
     
 }
-.btn-one,.btn-two{
+.btn{
     font-size: larger;
     padding: 15px 20px;
     background-color: red;
